@@ -7,7 +7,6 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import App from "./App";
 import SecondPage from "./Components/SecondPage";
 import SecondPageComponent2 from "./Components/SecondPageComponent2";
-import Login from "./Login";
 import FirstPage from "./Components/FirstPage";
 
 const router = createBrowserRouter([

@@ -34,7 +34,6 @@ type Users = {
   }));
   const getData = localStorage.getItem("userDetails");
   if(getData){
-    const data = JSON.parse(getData)
       }
 
   
